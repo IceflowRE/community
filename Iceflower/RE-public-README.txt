@@ -1,4 +1,4 @@
-This folder contains my public "Work in Progress" files.
+This folder contains my public "Work in Progress" projects.
 
 
 Iceflower
