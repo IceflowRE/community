@@ -1,12 +1,4 @@
-This folder contains my public data of the great open source game "Red Eclipse".
-Special things are written in the <Name>-ReadMe.txt which can be found in the most folders. The "texture-ReadMe" are very important if you would like to handling some of the texture files.
-
-Because its easier for me to update this files with Google Drive, here are every time the newest versions.
-Google Drive: https://drive.google.com/folderview?id=0B__JdfXlvXlxRlpNVVRsOVdFSmM&usp=sharing
-
-In the GitHub directory are not every time the newest version, because i dont want to spam the GitHub repository with every small fix.
-Furthermore GitHub has not all data (like screenshots and the REmapCollection).
-GitHub Community repository: https://github.com/red-eclipse/community/tree/master/Iceflower
+This folder contains my public "Work in Progress" files.
 
 
 Iceflower
