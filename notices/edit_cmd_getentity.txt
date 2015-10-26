@@ -1,0 +1,28 @@
+getentity a b c: iii
+
+EXAMPLES:
+(getentity -1): number of all existing ents
+A = ent number, the number which stands for in the brackets e.g. affinity(1)
+loop A (getentity -1) [ //loop through all existing ents
+	(getentity $A 0): ent type number, for ent type numbers see below
+	(getentity $A 1): maximum of ent ids
+	(getentity $A 1 I): I = ent ids, returns the current value of the id
+]
+
+(getentity A 0): ent type number
+etp = 01: light
+etp = 02: mapmodel
+etp = 03: playerstart
+etp = 04: envmap
+etp = 05: particles
+etp = 06: sound
+etp = 07: lightfx
+etp = 08: sunlight
+etp = 09: weapon
+etp = 10: teleport
+etp = 11: actor
+etp = 12: trigger
+etp = 13: pusher
+etp = 14: affinity
+etp = 15: checkpoint
+etp = 16: route
